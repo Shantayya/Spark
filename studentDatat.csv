@@ -1,0 +1,144 @@
+age,gender,name,course,roll,marks,email
+22,F,Kiana Lor,Data Enggg,101,100,KianaLor@gmail.com
+22,M,Joshua Lonaker,Cloud Admin,102,99,JoshuaLonaker@gmail.com
+22,F,Dakota Blanco,DevOps,103,65,DakotaBlanco@gmail.com
+20,F,Natasha Yarusso,FullStack,104,78,NatashaYarusso@gmail.com
+21,F,Brooke Cazares,MLOps,105,98,BrookeCazares@gmail.com
+21,F,Rochelle Johnson,data Scientist,106,54,RochelleJohnson@gmail.com
+22,M,Joey Abreu,FrontEnd,107,63,JoeyAbreu@gmail.com
+22,M,Preston Suarez,Backend,108,48,PrestonSuarez@gmail.com
+24,F,Lee Dong,UI/UX,109,87,LeeDong@gmail.com
+22,M,Maa'iz al-Dia,SRE,110,69,Maa'izal-Dia@gmail.com
+23,F,Maja Nicholson,Network engg,111,57,MajaNicholson@gmail.com
+21,F,Sasha Jansen,Security Engg,112,99,SashaJansen@gmail.com
+20,M,Alexander Sherman,Data Enggg,113,65,AlexanderSherman@gmail.com
+23,M,Edgar Sanchez,Cloud Admin,114,78,EdgarSanchez@gmail.com
+21,M,Kolbi Strunk,DevOps,115,98,KolbiStrunk@gmail.com
+21,F,Brittany Sath,FullStack,116,54,BrittanySath@gmail.com
+21,F,Meggan Smith,MLOps,117,63,MegganSmith@gmail.com
+23,other,Ericka Arreola,data Scientist,118,48,ErickaArreola@gmail.com
+24,M,David Pulc,FrontEnd,119,87,DavidPulc@gmail.com
+23,M,Kyle Luckey,Backend,120,69,KyleLuckey@gmail.com
+22,M,Rojesh Her,UI/UX,121,57,RojeshHer@gmail.com
+20,M,David Weber,SRE,122,55,DavidWeber@gmail.com
+22,F,Rachel Jambor,Network engg,123,44,RachelJambor@gmail.com
+23,M,Mus'ab al-Moustafa,Security Engg,124,66,Mus'abal-Moustafa@gmail.com
+23,M,Sila Nguyen,Data Enggg,125,77,SilaNguyen@gmail.com
+22,F,Samantha Hicks,Cloud Admin,126,77,SamanthaHicks@gmail.com
+22,F,Angela Harding,DevOps,127,88,AngelaHarding@gmail.com
+21,M,Brandon Barbour,FullStack,128,99,BrandonBarbour@gmail.com
+23,F,Reilly Wagar,MLOps,129,56,ReillyWagar@gmail.com
+22,F,Victoria Ibarra,data Scientist,130,45,VictoriIbarra@gmail.com
+22,F,Dakota Wirth,FrontEnd,131,37,DakotaWirth@gmail.com
+22,F,Lauren Klocker,Backend,132,54,LaurenKlocker@gmail.com
+21,M,Michael Benson,UI/UX,133,63,MichaelBenson@gmail.com
+21,M,Sean Rozga,SRE,134,48,SeanRozga@gmail.com
+23,M,Cody Vermeylen,Network engg,135,87,CodyVermeylen@gmail.com
+22,F,Kinaana al-Jamail,Security Engg,136,69,Kinaanaal-Jamail@gmail.com
+22,M,Daniel Garcia,Data Enggg,137,57,DanielGarciav@gmail.com
+22,F,Katrina Saito,Cloud Admin,138,55,KatrinaSaitov@gmail.com
+24,M,Joshua Galloway,DevOps,139,44,JoshuaGallowa@gmail.comy
+22,F,Aylin Mendoza,FullStack,140,66,AylinMendoza@gmail.com
+22,F,Sharon Fyfe,MLOps,141,77,SharonFyfe@gmail.com
+22,F,Afnaan el-Mohammed,data Scientist,142,77,Afnaanel-Mohammed@gmail.com
+21,F,Jesse Williams,FrontEnd,143,88,JesseWilliams@gmail.com
+22,M,Kenny Fukushima,Backend,144,99,KennyFukushima@gmail.com
+24,F,Tawnie Glaisher,UI/UX,145,56,TawnieGlaisher@gmail.com
+23,F,Britany Stevens,SRE,146,45,BritanyStevens@gmail.com
+20,M,Alan Trinh,Network engg,147,37,AlanTrinh@gmail.com
+22,F,Zoe Kern,Security Engg,148,78,ZoeKern@gmail.com
+23,M,Sidney Beavers,Data Enggg,149,98,SidneyBeavers@gmail.com
+22,F,Miriam Aguilar,Cloud Admin,150,54,MiriamAguilar@gmail.com
+23,M,Issac Mata,DevOps,151,63,IssacMata@gmail.com
+22,F,Hannah Uren,FullStack,152,48,HannahUren@gmail.com
+21,M,Zachary Bradley,MLOps,153,87,ZacharyBradley@gmail.com
+23,F,Moira Buttitto,data Scientist,154,69,MoiraButtitto@gmail.com
+22,F,Nicole Humpal,FrontEnd,155,57,NicoleHumpal@gmail.com
+23,F,Georgia Williams,Backend,156,99,GeorgiaWilliams@gmail.com
+23,M,Connor Ferry,UI/UX,157,65,ConnorFerry@gmail.com
+22,F,Amanda Tatum,SRE,158,78,AmandaTatum@gmail.com
+20,M,Cameron Steinberg,Network engg,159,98,CameronSteinbergv@gmail.com
+22,M,Shuraih el-Karim,Security Engg,160,54,Shuraihel-Karimv@gmail.com
+20,F,Katelyn Sharp,Data Enggg,161,63,KatelynSharp@gmail.com
+21,M,Colin Lemont,Cloud Admin,162,48,ColinLemont@gmail.com
+23,M,Donald Nevins,DevOps,163,87,DonaldNevins@gmail.com
+20,F,Macaela Kadillak,FullStack,164,57,MacaelaKadillak@gmail.com
+22,F,Brittany Pratt,MLOps,165,55,BrittanyPratt@gmail.com
+21,M,Cameron Hancock,data Scientist,166,44,CameronHancock@gmail.com
+22,M,William Grevious,FrontEnd,167,66,WilliamGrevious@gmail.com
+23,F,Lindsey Job,Backend,168,77,LindseyJob@gmail.com
+23,F,Gabrielle Smith,UI/UX,169,77,GabrielleSmith@gmail.com
+24,F,Allison Brink-Lomme,SRE,170,88,AllisonBrink-Lomme@gmail.com
+21,F,Sheyenne Delgado-Manzanares,Network engg,171,99,SheyenneDelgado-Manzanares@gmail.com
+21,M,Joseph Smith,Security Engg,172,56,JosephSmith@gmail.com
+21,F,Fikra al-Mina,Data Enggg,173,45,Fikraal-Mina@gmail.com
+22,F,Aurelia Davis Ingham,Cloud Admin,174,37,AureliaDavisIngham@gmail.com
+21,F,Taylor Elstun,DevOps,175,78,TaylorElstun@gmail.com
+21,M,Joseph Snider,FullStack,176,98,JosephSnider@gmail.com
+21,M,Sourinthone Tran,MLOps,177,54,SourinthoneTran@gmail.com
+23,M,Ibrahim al-Sawaya,data Scientist,178,63,Ibrahimal-Sawaya@gmail.com
+23,F,Alexandra Levy,FrontEnd,179,48,AlexandraLevy@gmail.com
+23,F,Macie Nguyen,Backend,180,87,MacieNguyen@gmail.com
+25,M,Sean Tegtman,UI/UX,181,69,SeanTegtman@gmail.com
+22,M,Casey Vanden Bos,SRE,182,100,CaseyVandenBos@gmail.com
+23,F,Staci Maes,Network engg,183,99,StaciMaes@gmail.com
+26,M,Luke Davey,Security Engg,184,65,LukeDavey@gmail.com
+23,F,Harper Wheeler-Marques,Data Enggg,185,78,HarperWheeler-Marqu@gmail.com
+22,F,Sherleen Saravanan,Cloud Admin,186,98,SherleenSaravanan@gmail.com
+21,M,Myles Vaught,DevOps,187,54,MylesVaught@gmail.com
+21,M,Juan Guerrero Camacho,FullStack,188,63,JuanGuerreroCamacho@gmail.com
+20,F,Lindsey Freund,MLOps,189,48,LindseyFreund@gmail.com
+20,F,Savannah Clark,data Scientist,190,87,SavannahClark@gmail.com
+22,M,Bradley Monsell,FrontEnd,191,69,BradleyMonsell@gmail.com
+22,F,Daisha Schmidt,Backend,192,57,DaishaSchmidt@gmail.com
+22,F,Airabella Koontz,UI/UX,193,99,AirabellaKoontz@gmail.com
+22,F,Hailey Malle,SRE,194,65,HaileyMalle@gmail.com
+20,M,Devon Miranda,Network engg,195,78,DevonMiranda@gmail.com
+23,F,Danielle Nguyen,Security Engg,196,98,DanielleNguyen@gmail.com
+23,M,Mateo Cisneros,Data Enggg,197,54,MateoCisneros@gmail.com
+24,M,William Pablo,Cloud Admin,198,63,WilliamPablo@gmail.com
+20,M,Jason Hundsdorfer,DevOps,199,48,JasonHundsdorfer@gmail.com
+22,M,Antonio Desai,FullStack,200,87,AntonioDesai@gmail.com
+24,F,Rachel Bakeman,MLOps,201,69,RachelBakeman@gmail.com
+22,M,Mamdooh el-Moustafa,Data Enggg,202,57,Mamdoohel-Moustafa@gmail.com
+24,F,Lindsey Carter,Cloud Admin,203,55,LindseyCarter@gmail.com
+23,M,Duncan Kruse,DevOps,204,44,DuncanKruse@gmail.com
+22,other,Callahan Foster,FullStack,205,66,CallahanFoster@gmail.com
+23,F,Jamie Ortiz,MLOps,206,77,JamieOrtiz@gmail.com
+20,M,Ryan Barrett,Data Enggg,207,77,RyanBarrett@gmail.com
+22,M,Samuel Palmer,Cloud Admin,208,88,SamuelPalmer@gmail.com
+23,M,Riley Mcloughlin,DevOps,209,99,RileyMcloughlin@gmail.com
+24,F,Aimee Apelyan,FullStack,210,56,AimeeApelyan@gmail.com
+23,F,Maryah Falloon,MLOps,211,45,MaryahFalloon@gmail.com
+22,F,Lucille Mitchell,FrontEnd,212,37,LucilleMitchell@gmail.com
+23,M,Christian Zambrano-Munoz,Backend,213,54,ChristianZambrano-Munoz@gmail.com
+22,M,Bryce Vaillancourt,UI/UX,214,63,BryceVaillancourt@gmail.com
+21,F,Brandilyn Collins,SRE,215,48,BrandilynCollins@gmail.com
+22,M,Konner Gearhart,Network engg,216,87,KonnerGearhart@gmail.com
+22,M,Andrew Houghton,FrontEnd,217,69,AndrewHoughton@gmail.com
+22,F,Marisa Ramey,Backend,218,57,MarisaRamey@gmail.com
+22,F,Magdalynne Noah,UI/UX,219,55,MagdalynneNoah@gmail.com
+23,F,Megan Salamena,SRE,220,44,MeganSalamena@gmail.com
+24,F,Meghan Arnold,Network engg,221,66,MeghanArnold@gmail.com
+20,M,James Rice,FullStack,222,77,JamesRice@gmail.com
+23,M,Wesley Nunn,MLOps,223,77,WesleyNunn@gmail.com
+21,M,Gareth Newkirk,data Scientist,224,88,GarethNewkirk@gmail.com
+21,M,Austin Harline,FullStack,225,99,AustinHarline@gmail.com
+20,F,Courtney Martinez,MLOps,226,56,CourtneyMartinez@gmail.com
+22,F,Alexandra Graham,data Scientist,227,45,AlexandraGraham@gmail.com
+22,M,Alexander Swearingen,FullStack,228,37,AlexanderSwearingen@gmail.com
+20,F,Brandy Waldner,MLOps,229,78,BrandyWaldner@gmail.com
+24,M,Coleman Keelen,data Scientist,230,98,ColemanKeelen@gmail.com
+21,M,Casey Buhr,FullStack,231,54,CaseyBuhr@gmail.com
+19,F,Shauna Sneed,MLOps,232,63,ShaunaSneed@gmail.com
+22,F,Caitlin Dean,data Scientist,233,48,CaitlinDean@gmail.com
+25,M,Andrew Kirin,FullStack,234,87,AndrewKirin@gmail.com
+24,F,Nadia Minks,MLOps,235,69,NadiaMinks@gmail.com
+24,F,Ivy Lucero,data Scientist,236,57,IvyLucero@gmail.com
+23,M,Kevin Curry,FullStack,237,99,KevinCurry@gmail.com
+23,M,Charles Cramer,FullStack,238,65,CharlesCramer@gmail.com
+21,F,Emily Warner,FullStack,239,78,EmilyWarner@gmail.com
+20,F,Mckenzie Haycock,FullStack,240,98,MckenzieHaycock@gmail.com
+19,F,Faviola Soto,FullStack,241,54,FaviolaSoto@gmail.com
+21,M,Stephen Wharton,FullStack,242,63,StephenWharton@gmail.com
+20,F,Alexandria Fortner,MLOps,243,48,AlexandriaFortner@gmail.com
